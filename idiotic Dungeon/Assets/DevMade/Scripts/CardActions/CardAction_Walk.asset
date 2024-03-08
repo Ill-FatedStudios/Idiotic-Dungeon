@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f14f16236e7dc32458718e1c7a8c7f45, type: 3}
+  m_Name: CardAction_Walk
+  m_EditorClassIdentifier: 
+  ActionSize: 1.5
+  ActionGraphic: {fileID: 4346369748644241626, guid: e4c5215698f6ba84e9f8de5ebf11775b, type: 3}
+  LineHolo: 1

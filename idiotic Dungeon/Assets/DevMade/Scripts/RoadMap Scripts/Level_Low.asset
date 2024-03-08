@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cddc2ed9943172b4d8ea4bad17eb423b, type: 3}
+  m_Name: Level_Low
+  m_EditorClassIdentifier: 
+  SpawnRates: 000000001900000064000000
+  MaxMobs: 1
+  MinMobs: 5
+  RoomPref: {fileID: 11400000, guid: 2f6aab7b6b771794f836ed999ba302e0, type: 2}
